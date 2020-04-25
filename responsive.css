@@ -1,0 +1,14 @@
+@media (max-width:1000px){
+
+}
+
+@media (max-width:730px){
+    .header-right {
+        display: none;
+         }
+    .top-wrapper img{
+         display: none;}
+    .h1, p{
+        text-align: center;
+    }
+}
